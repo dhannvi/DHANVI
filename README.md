@@ -1,2 +1,2 @@
 # DHANVI
-# A new line added inside VS CODE
+# A new line added inside VS Code
